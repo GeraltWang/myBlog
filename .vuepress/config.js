@@ -1,6 +1,6 @@
 module.exports = {
   "title": "myPlace",
-  "description": "my first blog",
+  "description": "等风来，不如追风去",
   "dest": "public",
   "head": [
     [
@@ -47,7 +47,7 @@ module.exports = {
         "items": [
           {
             "text": "GitHub",
-            "link": "https://github.com/recoluan",
+            "link": "https://github.com/GeraltWang",
             "icon": "reco-github"
           }
         ]
